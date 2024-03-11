@@ -1,0 +1,8 @@
+.output{
+    width: 40%;
+    border:1px solid rgb(131, 128, 128);
+    border-radius: 2rem;
+    padding: 1rem;
+    font-size: 16px;
+    word-wrap: break-word;
+}
